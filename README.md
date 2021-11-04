@@ -13,6 +13,7 @@ View [here](https://pokereactdex.netlify.app/).
 * Start server with __yarn start__
 
 # Goal
+  Application must :
 * Consume a public API
 * Have several components
 * Be deployed online
