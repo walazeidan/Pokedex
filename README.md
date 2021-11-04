@@ -30,7 +30,7 @@ View [here](https://pokereactdex.netlify.app/).
 * Chrome dev tools
 
 # Approach and Timeline
-__Day 1__
+__Day 1__ <br />
 We spent about an hour looking for a suitable API, something that was concise and straightforward but also contained plenty of info that we could have fun working with. We were delighted to find the pokemon API - we both enjoyed Pokemon as kids plus it didn’t require any authentication. We used insomnia to take a closer look at the data and explore endpoints.
 
 <img width="894" alt="Screenshot 2021-11-04 at 17 39 46" src="https://user-images.githubusercontent.com/87997491/140391071-0c730a33-e28b-4ec7-8d7f-b0a1bccb8c4d.png">
@@ -76,7 +76,7 @@ return (
   ```
   We both worked on the components together using VSCode Live Share, building and styling each component as we went.
 
-__Day 2__
+__Day 2__ <br />
 We spent our final day building the individual pokemon cards that display details about the pokemon clicked such as their japanese name, sprite, type, weight/height etc. On this page, users can also jump to next or previous evolutions if available. Another component included 'Who's that Pokemon?', which generated a random pokemon from the database.
 
 ```
