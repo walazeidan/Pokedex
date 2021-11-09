@@ -14,19 +14,19 @@ View [here](https://pokereactdex.netlify.app/).
 
 # Goal
   Application must :
-* Consume a public API
-* Have several components
-* Be deployed online
+* Consume a public API.
+* Have several components.
+* Be deployed online.
 
 # Technology Used
 * HTML5
 * CSS3
 * SASS
-* Javascript ES6
+* JavaScript ES6
 * React
 * Insomnia
 * Git
-* Github
+* GitHub
 * Chrome dev tools
 
 # Approach and Timeline
@@ -77,7 +77,7 @@ return (
   We both worked on the components together using VSCode Live Share, building and styling each component as we went.
 
 __Day 2__ <br />
-We spent our final day building the individual pokemon cards that display details about the pokemon clicked such as their japanese name, sprite, type, weight/height etc. On this page, users can also jump to next or previous evolutions if available. Another component included 'Who's that Pokemon?', which generated a random pokemon from the database.
+We spent our final day building the individual Pokemon cards that display details about the Pokemon clicked such as their Japanese name, sprite, type, weight/height etc. On this page, users can also jump to next or previous evolutions if available. Another component included 'Who's that Pokemon?', which generated a random Pokemon from the database.
 
 ```
 {pokemons.evolution.prev && pokemons.evolution.next  
@@ -138,7 +138,7 @@ $typeColours: (
 
 # Wins and Challenges
 * We’re both very happy with how the app turned out - in style and functionality.
-* Timing prevented us from adding extra bits such as a load more button at the bottom of the list  page that allows you to load more results.
+* Timing prevented us from adding extra bits such as a load more button at the bottom of the list page that allows you to load more results.
 
 # Key Learnings
 * This was my first time working in a pair. It was a lot of fun to bounce ideas off one another and work together to build something in the way we envisioned it. 
